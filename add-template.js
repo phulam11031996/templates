@@ -759,21 +759,7 @@ const templatesToAdd = [
           borderWidth: 2,
         },
       },
-      images: [
-        {
-          src: "TEMPLATE_LOGO",
-          position: { x: 329, y: 423 },
-          size: { width: "8%", height: "8%" },
-          containerStyle: {
-            zIndex: 1,
-          },
-          imageStyle: {
-            width: "100%",
-            height: "100%",
-            objectFit: "fill",
-          },
-        },
-      ],
+      images: [],
       texts: [
         {
           content: "Before",
@@ -3116,7 +3102,6 @@ const templatesToAdd = [
 
   //
 ];
-
 //
 //
 //
